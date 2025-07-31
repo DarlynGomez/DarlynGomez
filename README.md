@@ -2,6 +2,8 @@
 
 **Computer Science Student @ RIT | Cornell Tech AI Fellow | Former SWE Intern @ Blackstone**
 
+![Darlyn Gomez Banner](./banner.png)
+
 I'm an aspiring machine learning engineer passionate about removing algorithmic bias in high-risk environments like crime, healthcare, and finance. I love tackling real-world problems through data analysis and predictive modeling, but I'm also big on continuously learning and building my skills through hands-on projects.
 
 My journey bridges software engineering experience at Blackstone with data science research focused on women's retention in STEM. I've been selected for the Cornell Tech AI Fellowship and the ALPFA Fellowship, opportunities that have helped me grow both as a technical problem-solver and an inclusive leader.
